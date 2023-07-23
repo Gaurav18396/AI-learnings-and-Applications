@@ -1,3 +1,6 @@
+#This code will enable you to play a background audio after detecting the smile
+
+
 import cv2
 import os
 from pydub import AudioSegment
