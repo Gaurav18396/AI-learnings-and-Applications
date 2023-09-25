@@ -1,2 +1,2 @@
 # AI-learnings-and-Applications
-This repository aims at practice of AI tools on different dataset available online. 
+This repository aims at different applications of AI tools on various datasets available online. 
